@@ -1,1 +1,1 @@
-# Aishwary21-Myntra-Clone-HTML-CSS-
+**Creating a responsive website (Myntra Clone) using HTML, CSS**
